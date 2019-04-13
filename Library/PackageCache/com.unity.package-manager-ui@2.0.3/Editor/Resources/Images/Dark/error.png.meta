@@ -3,7 +3,11 @@ guid: acc34040a66fe4170bc8885268860cfe
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
+<<<<<<< HEAD:Library/PackageCache/com.unity.package-manager-ui@2.0.3/Editor/Resources/Images/Dark/error.png.meta
   serializedVersion: 6
+=======
+  serializedVersion: 9
+>>>>>>> updating map and scene.:Assets/MainScene/Lightmap-0_comp_light.exr.meta
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0

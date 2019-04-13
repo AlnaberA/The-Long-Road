@@ -3,7 +3,11 @@ guid: 10bf81265ad87424d946598c575f45a0
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
+<<<<<<< HEAD:Library/PackageCache/com.unity.ads@2.0.8/Editor/Resources/Editor/landscape.jpg.meta
   serializedVersion: 5
+=======
+  serializedVersion: 9
+>>>>>>> updating map and scene.:Assets/MainScene/ReflectionProbe-0.exr.meta
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
